@@ -3,7 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## References
+
+### `for github actions setup`
 https://blog.logrocket.com/ci-cd-pipelines-react-github-actions-heroku/
+
+### `for code coverage, badges`
+https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp
 
 ## Available Scripts
 
