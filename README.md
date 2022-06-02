@@ -1,9 +1,20 @@
+![CI/CD](https://github.com/mohsiqba/github-actions-heroku/workflows/Development%20workflow/badge.svg)
+
+![CI/CD](https://github.com/mohsiqba/github-actions-heroku/workflows/Production%20workflow/badge.svg)
+
+[![codecov](https://codecov.io/gh/mohsiqba/github-actions-heroku/branch/main/graph/badge.svg?token=RGHO1LV54C)](https://codecov.io/gh/mohsiqba/github-actions-heroku)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## References
+
+### `for github actions setup`
 https://blog.logrocket.com/ci-cd-pipelines-react-github-actions-heroku/
+
+### `for code coverage, badges`
+https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp
 
 ## Available Scripts
 
